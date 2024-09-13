@@ -1,0 +1,5 @@
+I used IntelliJ as my IDE and referenced their documentation for assistance on how to run certain plugins such as maven, jacoco, etc:
+https://www.jetbrains.com/help/idea/getting-started.html 
+
+Mockito documentation:
+https://javadoc.io/doc/org.mockito/mockito-core/latest/org/mockito/Mockito.html
